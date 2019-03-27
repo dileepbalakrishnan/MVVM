@@ -16,22 +16,22 @@ namespace DataService
                     Name = "Dileep",
                     Age = 35,
                     Email = "dileep@microsoft.com",
-                    //Courses = new List<string>
-                    //{
-                    //    "C# In Depth",
-                    //    "Rx.Net In Action"
-                    //}
+                    Courses = new List<string>
+                    {
+                        "C# In Depth",
+                        "Rx.Net In Action"
+                    }
                 },
                 new Student
                 {
                     Name = "Manu",
                     Age = 35,
                     Email = "manu@intel.com",
-                    //Courses = new List<string>
-                    //{
-                    //    "C# In Depth",
-                    //    "TPL DataFlows"
-                    //}
+                    Courses = new List<string>
+                    {
+                        "C# In Depth",
+                        "TPL DataFlows"
+                    }
                 }
             };
         }

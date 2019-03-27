@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataService", "DataService\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvM_ViewHookUp", "MvvM_ViewHookUp\MvvM_ViewHookUp.csproj", "{8153ACBB-2D2D-492B-BB37-6E07D94D8A6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvM_ViewModelLocatorDemo", "MvvM_ViewModelLocatorDemo\MvvM_ViewModelLocatorDemo.csproj", "{594F566D-415D-411C-B5B8-F52649E818B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{8153ACBB-2D2D-492B-BB37-6E07D94D8A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8153ACBB-2D2D-492B-BB37-6E07D94D8A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8153ACBB-2D2D-492B-BB37-6E07D94D8A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594F566D-415D-411C-B5B8-F52649E818B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594F566D-415D-411C-B5B8-F52649E818B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594F566D-415D-411C-B5B8-F52649E818B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594F566D-415D-411C-B5B8-F52649E818B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D39138B5-3142-400F-9DEA-7D48F1AF8528} = {500A008D-1759-4A60-B99B-02E9590CB08E}
 		{8153ACBB-2D2D-492B-BB37-6E07D94D8A6E} = {32FA2960-BDD6-406D-BCC8-422DF3220248}
+		{594F566D-415D-411C-B5B8-F52649E818B4} = {32FA2960-BDD6-406D-BCC8-422DF3220248}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ADC4E355-0353-437A-B589-D97E2BFB0D4B}
